@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>227904742125-tpmt9qu1l77hk0ho72hkk09qi4tsglab.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.227904742125-tpmt9qu1l77hk0ho72hkk09qi4tsglab</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkRkjqk9CdbnSnMls9GK58JM3McZs8EHs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>227904742125</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vikhlyaev.Pangaea</string>
+	<key>PROJECT_ID</key>
+	<string>pangaea-556ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pangaea-556ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:227904742125:ios:9a18388230218df73c62e4</string>
+</dict>
+</plist>
